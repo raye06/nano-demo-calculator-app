@@ -1,4 +1,4 @@
-nFROM node:latest
+FROM node:latest
 
 WORKDIR /home/data
 
